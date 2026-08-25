@@ -1,1 +1,1 @@
-# ASP.NET Core APIs: CQRS e Mediator
+# ASP.NET Core APIs: Autenticação baseada em claims
